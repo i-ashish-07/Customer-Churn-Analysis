@@ -47,7 +47,7 @@ The goal is to help businesses **reduce churn and improve customer retention str
 
 ### 🔹 Summary Dashboard
 
-(https://github.com/i-ashish-07/Customer-Churn-Analysis/blob/main/Screenshot%202026-03-19%20031147.png)
+![Alt text](https://github.com/i-ashish-07/Customer-Churn-Analysis/blob/main/Screenshot%202026-03-19%20031147.png)
 
 ### 🔹 Customer Segmentation & Drivers
 
