@@ -63,9 +63,9 @@ The goal is to help businesses **reduce churn and improve customer retention str
 * Total Revenue: **19.47M**
 
 
- Business Insights
+ ## Business Insights
  
- ## Overall Churn Situation
+ ### Overall Churn Situation
 
 27% churn rate indicates a significant retention problem
 
