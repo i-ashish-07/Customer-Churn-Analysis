@@ -51,7 +51,7 @@ The goal is to help businesses **reduce churn and improve customer retention str
 
 ### 🔹 Customer Segmentation & Drivers
 
-![Insights Dashboard](./assets/insights.png)
+![Alt text](https://github.com/i-ashish-07/Customer-Churn-Analysis/blob/main/Screenshot%202026-03-19%20031202.png)
 
 ---
 
@@ -63,3 +63,54 @@ The goal is to help businesses **reduce churn and improve customer retention str
 * Total Revenue: **19.47M**
 
 
+📊 Business Insights
+🔴 Overall Churn Situation
+
+27% churn rate indicates a significant retention problem
+
+📉 Contract-Based Risk
+
+Month-to-month customers (46.5%) have the highest churn
+
+🌐 Service-Based Risk
+
+Fiber optic users (41.1%) are the most likely to churn
+
+⏳ Customer Lifecycle Risk
+
+Customers in first 6 months are most vulnerable
+
+🧠 Primary Churn Driver
+
+Competitor influence is the leading reason for churn
+
+😠 Customer Experience Issues
+
+Dissatisfaction and poor service contribute more than pricing
+
+🛠️ Support Impact
+
+Premium support reduces churn from 31.7% → 15.4%
+
+💳 Payment Behavior
+
+Manual payment users churn more than auto-pay users
+
+👵 High-Risk Demographics
+
+Customers aged 50+ show higher churn
+
+🌍 Regional Variation
+
+Certain states show extremely high churn (>50%)
+
+---
+⭐ Project Highlights
+
+End-to-end data analysis (SQL → Power BI)
+
+Business-driven insights (not just visuals)
+
+Dynamic and interactive dashboard
+
+Real-world problem solving approach
