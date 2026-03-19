@@ -1,4 +1,4 @@
-# 🧠 Business Questions Answered
+# 🧠 Business Questions
 
 This project addresses key business questions to identify customer churn patterns and improve retention strategies.
 
