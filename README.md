@@ -67,43 +67,43 @@ The goal is to help businesses **reduce churn and improve customer retention str
  
  ### Overall Churn Situation
 
-27% churn rate indicates a significant retention problem
+* 27% churn rate indicates a significant retention problem
 
- Contract-Based Risk
+* Contract-Based Risk
 
-Month-to-month customers (46.5%) have the highest churn
+* Month-to-month customers (46.5%) have the highest churn
 
 ### Service-Based Risk
 
-Fiber optic users (41.1%) are the most likely to churn
+* Fiber optic users (41.1%) are the most likely to churn
 
 ### Customer Lifecycle Risk
 
-Customers in first 6 months are most vulnerable
+* Customers in first 6 months are most vulnerable
 
 ### Primary Churn Driver
 
-Competitor influence is the leading reason for churn
+* Competitor influence is the leading reason for churn
 
 ### Customer Experience Issues
 
-Dissatisfaction and poor service contribute more than pricing
+* Dissatisfaction and poor service contribute more than pricing
 
 ### Support Impact
 
-Premium support reduces churn from 31.7% → 15.4%
+* Premium support reduces churn from 31.7% → 15.4%
 
 ### Payment Behavior
 
-Manual payment users churn more than auto-pay users
+* Manual payment users churn more than auto-pay users
 
 ### High-Risk Demographics
 
-Customers aged 50+ show higher churn
+* Customers aged 50+ show higher churn
 
 ### Regional Variation
 
-Certain states show extremely high churn (>50%)
+* Certain states show extremely high churn (>50%)
 
 ---
 ⭐ Project Highlights
