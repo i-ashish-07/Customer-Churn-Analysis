@@ -4,7 +4,7 @@ You can **copy-paste this directly into your repo**.
 
 ---
 
-# 📊 Customer Churn Analysis – Power BI & SQL Project
+#  Customer Churn Analysis – Power BI & SQL Project
 
 ## 📌 Project Overview
 
@@ -21,7 +21,7 @@ The goal is to help businesses **reduce churn and improve customer retention str
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 * Total Records: **6,418 customers** 
 * Features: **30+ columns** including demographics, services, contract, and revenue
@@ -34,7 +34,7 @@ The goal is to help businesses **reduce churn and improve customer retention str
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Power BI** → Dashboard & visualization
 * **SQL (PostgreSQL)** → Data cleaning & analysis
@@ -43,7 +43,7 @@ The goal is to help businesses **reduce churn and improve customer retention str
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ### 🔹 Summary Dashboard
 
@@ -55,7 +55,7 @@ The goal is to help businesses **reduce churn and improve customer retention str
 
 ---
 
-## 📈 Key Metrics
+##  Key Metrics
 
 * Total Customers: **6,418**
 * Total Churned Customers: **1,732**
@@ -63,12 +63,13 @@ The goal is to help businesses **reduce churn and improve customer retention str
 * Total Revenue: **19.47M**
 
 
-📊 Business Insights
-🔴 Overall Churn Situation
+ Business Insights
+ 
+ ## Overall Churn Situation
 
 27% churn rate indicates a significant retention problem
 
-📉 Contract-Based Risk
+ Contract-Based Risk
 
 Month-to-month customers (46.5%) have the highest churn
 
