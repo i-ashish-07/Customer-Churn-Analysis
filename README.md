@@ -1,9 +1,3 @@
-# Customer-Churn-Analysis
-Perfect — you gave everything needed. I’ll now give you a **complete, professional, GitHub-ready README** (clean, structured, recruiter-level).
-You can **copy-paste this directly into your repo**.
-
----
-
 #  Customer Churn Analysis – Power BI & SQL Project
 
 ## 📌 Project Overview
