@@ -1,0 +1,86 @@
+# 🧠 Business Questions Answered
+
+This project addresses key business questions to identify customer churn patterns and improve retention strategies.
+
+---
+
+### 🔴 1. What is the overall churn rate?
+
+* Measures the **extent of customer loss**
+* Helps assess the overall retention performance
+
+---
+
+### 📉 2. Which contract type has the highest churn rate?
+
+* Identifies **high-risk customer segments**
+* Helps evaluate the effectiveness of long-term contracts
+
+---
+
+### 🌐 3. Which internet service type is associated with higher churn?
+
+* Analyzes **service performance and customer satisfaction**
+* Helps detect issues in premium services
+
+---
+
+### ⏳ 4. How does customer tenure impact churn?
+
+* Identifies **when customers are most likely to leave**
+* Helps improve onboarding and early engagement
+
+---
+
+### 💳 5. Which payment method has the highest churn rate?
+
+* Reveals **customer engagement patterns**
+* Helps promote automated payment strategies
+
+---
+
+### 🧠 6. What are the primary reasons for customer churn?
+
+* Identifies **root causes (competitor, dissatisfaction, etc.)**
+* Helps improve business strategy and service quality
+
+---
+
+### 🔌 7. Which service combinations are associated with higher churn?
+
+* Evaluates **customer usage patterns**
+* Helps understand if bundled services provide value
+
+---
+
+### 🛠️ 8. Does premium support reduce churn?
+
+* Measures the **impact of support services**
+* Helps justify investment in customer support
+
+---
+
+### 👵 9. Which age group has the highest churn rate?
+
+* Identifies **demographic risk segments**
+* Helps in targeted marketing and support strategies
+
+---
+
+### 🌍 10. Which regions/states have the highest churn?
+
+* Highlights **geographical churn patterns**
+* Enables region-specific retention strategies
+
+---
+
+## 🎯 Objective of These Questions
+
+These questions help:
+
+* Identify **high-risk customers**
+* Understand **why customers churn**
+* Provide **data-driven recommendations**
+* Improve **customer retention strategies**
+
+---
