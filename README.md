@@ -73,35 +73,35 @@ The goal is to help businesses **reduce churn and improve customer retention str
 
 Month-to-month customers (46.5%) have the highest churn
 
-🌐 Service-Based Risk
+### Service-Based Risk
 
 Fiber optic users (41.1%) are the most likely to churn
 
-⏳ Customer Lifecycle Risk
+### Customer Lifecycle Risk
 
 Customers in first 6 months are most vulnerable
 
-🧠 Primary Churn Driver
+### Primary Churn Driver
 
 Competitor influence is the leading reason for churn
 
-😠 Customer Experience Issues
+### Customer Experience Issues
 
 Dissatisfaction and poor service contribute more than pricing
 
-🛠️ Support Impact
+### Support Impact
 
 Premium support reduces churn from 31.7% → 15.4%
 
-💳 Payment Behavior
+### Payment Behavior
 
 Manual payment users churn more than auto-pay users
 
-👵 High-Risk Demographics
+### High-Risk Demographics
 
 Customers aged 50+ show higher churn
 
-🌍 Regional Variation
+### Regional Variation
 
 Certain states show extremely high churn (>50%)
 
